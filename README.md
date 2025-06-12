@@ -13,10 +13,7 @@
 ### Real-Time • Serverless • Scalable
 
 <p align="center">
-  <a href="https://twitter.com/pranayk_data">
-    <img src="https://img.shields.io/twitter/follow/pranayk_data?style=social&color=00FF00" alt="Twitter Follow" />
-  </a>
-  <a href="https://www.linkedin.com/in/pranayk10101/">
+  <a href="https://www.linkedin.com/in/kpranay10/">
     <img src="https://img.shields.io/badge/LinkedIn-Pranay%20K-00FF00?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pranayk10101@gmail.com">
@@ -71,8 +68,8 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 
 ## 📚 Certifications & Education
 
-* [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-* [SnowPro Core Certification](https://www.snowflake.com/snowflake-certification/)
+* [AWS Certified Solutions Architect](https://www.credly.com/badges/9df7b480-32cd-436f-88d9-ff47d8bbecc4/public_url)
+* [SnowPro Core Certification](https://www.credly.com/badges/15a5333a-a6a9-470b-9d22-4df06c55025c/public_url)
 
 **Education**
 
