@@ -16,6 +16,9 @@
   <a href="mailto:pranayk10101@gmail.com">
     <img src="https://img.shields.io/badge/Email-pranayk10101%40gmail.com-00FF00?logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.reddit.com/user/pranayk10101/">
+    <img src="https://img.shields.io/badge/Email-pranayk10101%40gmail.com-00FF00?logo=gmail&logoColor=white" alt="reddit" />
+  </a>
 
 </p>
 
