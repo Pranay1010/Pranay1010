@@ -31,7 +31,7 @@
 
 ## 🎯 About Me
 
-I’m a **Data Engineer** with 5+ years of experience designing and maintaining ETL/ELT pipelines, data lakes, and analytics platforms. I specialize in:
+I’m a **Data Engineer** with 9+ years of experience designing and maintaining ETL/ELT pipelines, data lakes, and analytics platforms. I specialize in:
 
 * **Snowflake Architecture**: Certified Snowflake Data Lake Architect, Snowpark, and dynamic schema evolution.
 * **IoT & Telematics**: Processing real-time vehicle telemetry at scale.
