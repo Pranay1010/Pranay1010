@@ -19,6 +19,9 @@
   <a href="mailto:pranayk10101@gmail.com">
     <img src="https://img.shields.io/badge/Email-pranayk10101%40gmail.com-00FF00?logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=800&lines=Exploring+Real-Time+Data+at+Scale+with+Precision!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -88,7 +91,7 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 | Project                                                       | Description                                             | Tech            |
 | :------------------------------------------------------------ | :------------------------------------------------------ | :-------------- |
 | [SPLIT\_HAPPENS](https://github.com/Pranay1010/SPLIT_HAPPENS) | Text data-splitting utility for pipeline preprocessing. | Python          |
-| [Snowflake Utils](https://github.com/Pranay1010/Snowflake)    | Stored procedures and utilities for Snowflake.          | PL/pgSQL        |
+| [Snowflake Utils](https://github.com/Pranay1010/Snowflake)    | Stored procedures and utilities for Snowflake.          | SQL             |
 | [Rand\_Rolls](https://github.com/Pranay1010/Rand_Rolls)       | Dice-roll simulator with interactive Jupyter demo.      | Python, Jupyter |
 | [Exploratory Demos](https://github.com/Pranay1010/new_repo)   | Proof-of-concept data analysis notebooks.               | Pandas, Jupyter |
 
@@ -109,3 +112,18 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 </div>
 
 <!-- Final polish: removed stats & trophies, added graphics, data modeling expertise, and certification links. -->
+
+
+
+<p align="center">
+  <a href="mailto:pranayk10101@gmail.com"><strong>Email</strong></a> • 
+  <a href="https://www.linkedin.com/in/pranayk10101/"><strong>LinkedIn</strong></a> • 
+  <a href="https://twitter.com/pranayk_data"><strong>Twitter</strong></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranay1010&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<!-- Final polish: removed stats & trophies, added graphics, data modeling expertise, and certification links. -->
+
