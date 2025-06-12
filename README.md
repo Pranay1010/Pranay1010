@@ -100,12 +100,12 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 
 <p align="center">
   <a href="mailto:pranayk10101@gmail.com"><strong>Email</strong></a> • 
-  <a href="https://www.linkedin.com/in/pranayk10101/"><strong>LinkedIn</strong></a> • 
-  <a href="https://twitter.com/pranayk_data"><strong>Twitter</strong></a>
+  <a href="https://www.linkedin.com/in/kpranay10/"><strong>LinkedIn</strong></a> • 
+  <a href="https://www.reddit.com/user/pranayk10101/"><strong>reddit</strong></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranay1010&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pranay1010&k&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <!-- Final polish: removed stats & trophies, added graphics, data modeling expertise, and certification links. -->
