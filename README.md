@@ -117,14 +117,12 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranay1010&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-25k-0e75b6?style=flat" alt="25k Profile Views" />
+</div>
 
-<!-- Final polish: removed stats & trophies, added graphics, data modeling expertise, and certification links. -->
-
-
-<!-- 🌟 Pranay Kammari’s Data Engineering Universe 🌟 -->
 
 <p align="center">
-  <!-- New Tech Banners -->
   <img src="https://img.shields.io/badge/Real-Time-Pipelines-blue?logo=apache-flink&logoColor=white" alt="Real-Time Pipelines" />
   <img src="https://img.shields.io/badge/Serverless-Workflows-lightgrey?logo=aws-lambda&logoColor=purple" alt="Serverless Workflows" />
   <img src="https://img.shields.io/badge/Scalable-Architectures-green?logo=kubernetes&logoColor=white" alt="Scalable Architectures" />
