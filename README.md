@@ -39,9 +39,6 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 * **Open-Source & Leadership**: Contributor to key public repos; speaker at Big Data Tech Meetup 2024.
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4500&width=800&lines=Building+Scalable+Streaming+Pipelines+with+AWS+Lambda!" alt="Typing SVG" width="100%" />
-</p>
 
 
 ## 🛠️ Tech Stack & Tools
@@ -63,6 +60,10 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4500&width=800&lines=Building+Scalable+Streaming+Pipelines+with+AWS+Lambda!" alt="Typing SVG" width="100%" />
+</p>
+
 
 ## 📚 Certifications & Education
 
