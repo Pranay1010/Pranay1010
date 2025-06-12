@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=800&lines=Exploring+Real-Time+Data+at+Scale+with+Precision!" alt="Typing SVG" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4500&width=800&lines=Building+Scalable+Streaming+Pipelines+with+AWS+Lambda!" alt="Typing SVG" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E90FF&width=800&lines=Mastering+Telemetry+%26+Dynamic+Schema+Evolution!" alt="Typing SVG" width="100%" />
-</p>
 
 # 🚀 Pranay Kammari
 
@@ -46,6 +39,10 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 * **Open-Source & Leadership**: Contributor to key public repos; speaker at Big Data Tech Meetup 2024.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4500&width=800&lines=Building+Scalable+Streaming+Pipelines+with+AWS+Lambda!" alt="Typing SVG" width="100%" />
+</p>
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -87,6 +84,10 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 * Maintainer of **3+ open-source projects** focused on telemetry and ETL.
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E90FF&width=800&lines=Mastering+Telemetry+%26+Dynamic+Schema+Evolution!" alt="Typing SVG" width="100%" />
+</p>
 
 ## 📦 Featured Projects
 
