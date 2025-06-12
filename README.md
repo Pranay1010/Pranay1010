@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Pranay1010/Pranay1010/blob/main/assets/hero-bg.gif" alt="Hero Background" width="100%" />
+  <img src="https://github.com/Pranay1010/Pranay1010/blob/main/assets/hero-bg.gif" alt="Hero Background" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E90FF&width=800&lines=Mastering+Telemetry+%26+Dynamic+Schema+Evolution!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E90FF&width=800&lines=Mastering+Telemetry+%26+Dynamic+Schema+Evolution!" alt="Typing SVG" width="100%" />
 </p>
 
 # 🚀 Pranay Kammari
