@@ -19,9 +19,7 @@
   <a href="mailto:pranayk10101@gmail.com">
     <img src="https://img.shields.io/badge/Email-pranayk10101%40gmail.com-00FF00?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=800&lines=Exploring+Real-Time+Data+at+Scale+with+Precision!" alt="Typing SVG" />
-  </a>
+
 </p>
 
 ---
@@ -112,3 +110,29 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 </div>
 
 <!-- Final polish: removed stats & trophies, added graphics, data modeling expertise, and certification links. -->
+
+
+<!-- 🌟 Pranay Kammari’s Data Engineering Universe 🌟 -->
+
+<p align="center">
+  <!-- New Tech Banners -->
+  <img src="https://img.shields.io/badge/Real-Time-Pipelines-blue?logo=apache-flink&logoColor=white" alt="Real-Time Pipelines" />
+  <img src="https://img.shields.io/badge/Serverless-Workflows-lightgrey?logo=aws-lambda&logoColor=purple" alt="Serverless Workflows" />
+  <img src="https://img.shields.io/badge/Scalable-Architectures-green?logo=kubernetes&logoColor=white" alt="Scalable Architectures" />
+  <img src="https://img.shields.io/badge/Data-Modeling-yellow?logo=erwin&logoColor=black" alt="Data Modeling" />
+  <img src="https://img.shields.io/badge/Automation-red?logo=github-actions&logoColor=white" alt="Automation" />
+</p>
+
+<!-- Data architecture graphic removed due to loading issues. -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=800&lines=Exploring+Real-Time+Data+at+Scale+with+Precision!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4500&width=800&lines=Building+Scalable+Streaming+Pipelines+with+AWS+Lambda!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E90FF&width=800&lines=Mastering+Telemetry+%26+Dynamic+Schema+Evolution!" alt="Typing SVG" />
+</p>
