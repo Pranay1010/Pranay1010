@@ -60,10 +60,6 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
   <img src="https://img.shields.io/badge/PowerDesigner-FF69B4?logo=powerdesigner&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Pranay1010/Pranay1010/blob/main/assets/data-architecture.png" alt="Data Architecture Graphic" width="80%" />
-</p>
-
 ---
 
 ## 📚 Certifications & Education
