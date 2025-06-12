@@ -1,7 +1,7 @@
 <!-- 🌟 Pranay Kammari’s Data Engineering Universe 🌟 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=800&lines=Exploring+Real-Time+Data+at+Scale+with+Precision!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=800&lines=Exploring+Real-Time+Data+at+Scale+with+Precision!" alt="Typing SVG" width="100%" />
 </p>
 
 <p align="center">
