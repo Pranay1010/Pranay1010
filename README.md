@@ -97,7 +97,7 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 
 | Project                                                       | Description                                             | Tech            |
 | :------------------------------------------------------------ | :------------------------------------------------------ | :-------------- |
-| [SPLIT\_HAPPENS](https://github.com/Pranay1010/SPLIT_HAPPENS) | Text data-splitting utility for pipeline preprocessing. | Python          |
+| [SPLIT\_HAPPENS](https://github.com/Pranay1010/SPLIT_HAPPENS) | Auto splitting payments amoungst cards.                 | Python          |
 | [Snowflake Utils](https://github.com/Pranay1010/Snowflake)    | Stored procedures and utilities for Snowflake.          | SQL             |
 | [Rand\_Rolls](https://github.com/Pranay1010/Rand_Rolls)       | Dice-roll simulator with interactive Jupyter demo.      | Python, Jupyter |
 | [Exploratory Demos](https://github.com/Pranay1010/new_repo)   | Proof-of-concept data analysis notebooks.               | Pandas, Jupyter |
