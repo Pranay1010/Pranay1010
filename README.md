@@ -8,6 +8,14 @@
   <img src="https://github.com/Pranay1010/Pranay1010/blob/main/assets/hero-bg.gif" alt="Hero Background" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4500&width=800&lines=Building+Scalable+Streaming+Pipelines+with+AWS+Lambda!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E90FF&width=800&lines=Mastering+Telemetry+%26+Dynamic+Schema+Evolution!" alt="Typing SVG" />
+</p>
+
 # 🚀 Pranay Kammari
 
 ### Real-Time • Serverless • Scalable
@@ -125,14 +133,4 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 
 <!-- Data architecture graphic removed due to loading issues. -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=800&lines=Exploring+Real-Time+Data+at+Scale+with+Precision!" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4500&width=800&lines=Building+Scalable+Streaming+Pipelines+with+AWS+Lambda!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E90FF&width=800&lines=Mastering+Telemetry+%26+Dynamic+Schema+Evolution!" alt="Typing SVG" />
-</p>
