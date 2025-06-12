@@ -116,7 +116,7 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-25k-0e75b6?style=flat" alt="47k Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-47k-0e75b6?style=flat" alt="47k Profile Views" />
 </div>
 
 
