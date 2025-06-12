@@ -105,7 +105,7 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranay1010&k&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pranay1010&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <!-- Final polish: removed stats & trophies, added graphics, data modeling expertise, and certification links. -->
