@@ -114,22 +114,9 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
   <a href="https://www.reddit.com/user/pranayk10101/"><strong>reddit</strong></a>
 </p>
 
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranay1010&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-25k-0e75b6?style=flat" alt="47k Profile Views" />
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-25k-0e75b6?style=flat" alt="25k Profile Views" />
-</div>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Real-Time-Pipelines-blue?logo=apache-flink&logoColor=white" alt="Real-Time Pipelines" />
-  <img src="https://img.shields.io/badge/Serverless-Workflows-lightgrey?logo=aws-lambda&logoColor=purple" alt="Serverless Workflows" />
-  <img src="https://img.shields.io/badge/Scalable-Architectures-green?logo=kubernetes&logoColor=white" alt="Scalable Architectures" />
-  <img src="https://img.shields.io/badge/Data-Modeling-yellow?logo=erwin&logoColor=black" alt="Data Modeling" />
-  <img src="https://img.shields.io/badge/Automation-red?logo=github-actions&logoColor=white" alt="Automation" />
-</p>
-
-<!-- Data architecture graphic removed due to loading issues. -->
 
 
