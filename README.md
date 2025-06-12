@@ -13,9 +13,6 @@
 ### Real-Time • Serverless • Scalable
 
 <p align="center">
-  <a href="https://github.com/Pranay1010">
-    <img src="https://img.shields.io/github/followers/Pranay1010?style=social&color=00FF00" alt="GitHub Followers" />
-  </a>
   <a href="https://twitter.com/pranayk_data">
     <img src="https://img.shields.io/twitter/follow/pranayk_data?style=social&color=00FF00" alt="Twitter Follow" />
   </a>
@@ -29,14 +26,22 @@
 
 ---
 
+## 🔍 Profile Overview
+
+I’m dedicated to transforming raw data into actionable insights with robust, scalable pipelines. I thrive on solving complex data challenges—especially in real-time streaming and telematics—and driving measurable business impact.
+
+---
+
 ## 🎯 About Me
 
-I’m a **Data Engineer** with 9+ years of experience designing and maintaining ETL/ELT pipelines, data lakes, and analytics platforms. I specialize in:
+I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 
-* **Snowflake Architecture**: Certified Snowflake Data Lake Architect, Snowpark, and dynamic schema evolution.
-* **IoT & Telematics**: Processing real-time vehicle telemetry at scale.
-* **Cloud & Automation**: AWS, GCP, Kubernetes, Terraform, and CI/CD pipelines.
-* **Open-Source**: Contributor and maintainer of public repositories.
+* **ETL/ELT Pipelines & Analytics**: Designing and optimizing data lakes, warehouses, and BI solutions.
+* **Snowflake Architecture**: Certified Snowflake Data Lake Architect; expert in Snowpark and dynamic schema evolution.
+* **IoT & Telematics**: Building real-time telemetry systems handling 1+ billion events/day.
+* **Data Modeling**: Conceptual, logical, and physical modeling using Erwin and PowerDesigner; implementing star and snowflake schemas.
+* **Cloud & Automation**: AWS, GCP, Kubernetes, Terraform, CI/CD pipelines.
+* **Open-Source & Leadership**: Contributor to key public repos; speaker at Big Data Tech Meetup 2024.
 
 ---
 
@@ -53,17 +58,35 @@ I’m a **Data Engineer** with 9+ years of experience designing and maintaining 
   <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Erwin-FF4500?logo=erwin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ataccama-0078D4?logo=collibra&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerDesigner-FF69B4?logo=powerdesigner&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/Pranay1010/Pranay1010/blob/main/assets/data-architecture.png" alt="Data Architecture Graphic" width="80%" />
+</p>
+
+---
+
+## 📚 Certifications & Education
+
+* [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+* [SnowPro Core Certification](https://www.snowflake.com/snowflake-certification/)
+
+**Education**
+
+* M.S., Computer Systems Networking & Telecommunications, Wichita State University
+* B.Tech., GITAM, Hyderabad, India
 
 ---
 
 ## 🚀 Highlights & Achievements
 
-* **1+ Billion** IoT events processed daily with **99.99%** reliability.
-* **Snowflake Data Lake Architect** certification.
-* **Speaker** at Big Data Tech Meetup 2024: "Dynamic JSON Processing at Scale."
-* **5+ Technical Blogs** with over 10,000 reads on Medium & Dev.to.
-* Actively **maintaining 3+** open-source projects.
+* Engineered real-time pipelines processing **1+ billion** IoT events/day with **99.99%** uptime.
+* Delivered **dynamic JSON schema** solution at Big Data Tech Meetup 2024.
+* Published **5+ technical blogs** (10k+ reads) on data engineering best practices.
+* Maintainer of **3+ open-source projects** focused on telemetry and ETL.
 
 ---
 
@@ -72,18 +95,9 @@ I’m a **Data Engineer** with 9+ years of experience designing and maintaining 
 | Project                                                       | Description                                             | Tech            |
 | :------------------------------------------------------------ | :------------------------------------------------------ | :-------------- |
 | [SPLIT\_HAPPENS](https://github.com/Pranay1010/SPLIT_HAPPENS) | Text data-splitting utility for pipeline preprocessing. | Python          |
-| [Snowflake Utils](https://github.com/Pranay1010/Snowflake)    | Custom stored procedures and scripts for Snowflake.     | PL/pgSQL        |
-| [Rand\_Rolls](https://github.com/Pranay1010/Rand_Rolls)       | Interactive dice-roll simulator in Jupyter Notebook.    | Python, Jupyter |
+| [Snowflake Utils](https://github.com/Pranay1010/Snowflake)    | Stored procedures and utilities for Snowflake.          | PL/pgSQL        |
+| [Rand\_Rolls](https://github.com/Pranay1010/Rand_Rolls)       | Dice-roll simulator with interactive Jupyter demo.      | Python, Jupyter |
 | [Exploratory Demos](https://github.com/Pranay1010/new_repo)   | Proof-of-concept data analysis notebooks.               | Pandas, Jupyter |
-
----
-
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay1010&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranay1010&theme=radical&no-frame=true&column=4" alt="Trophies" />
-</p>
 
 ---
 
@@ -97,10 +111,8 @@ I’m a **Data Engineer** with 9+ years of experience designing and maintaining 
   <a href="https://twitter.com/pranayk_data"><strong>Twitter</strong></a>
 </p>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranay1010&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<!-- Final polish: grammar checked, headings unified. Crafted with ❤️ by Pranay -->
+<!-- Final polish: removed stats & trophies, added graphics, data modeling expertise, and certification links. -->
