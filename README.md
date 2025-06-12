@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kpranay10/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranay%20K-00FF00?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-PranayKammari-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pranayk10101@gmail.com">
     <img src="https://img.shields.io/badge/Email-pranayk10101%40gmail.com-00FF00?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.reddit.com/user/pranayk10101/">
-    <img src="https://img.shields.io/badge/Email-pranayk10101%40gmail.com-00FF00?logo=gmail&logoColor=white" alt="reddit" />
+    <img src="https://img.shields.io/badge/Reddit-u%2FPranay1010-FF4500?logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 
 </p>
