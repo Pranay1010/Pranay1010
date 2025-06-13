@@ -75,8 +75,8 @@ I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
 
 **Education**
 
-* M.S., Computer Systems Networking & Telecommunications, Wichita State University
-* B.Tech., GITAM, Hyderabad, India
+* Master of Science., Computer Systems Networking & Telecommunications, Wichita State University
+* Bachelor of Technology., Electronics and Communications., GITAM, Hyderabad, India
 
 ---
 
