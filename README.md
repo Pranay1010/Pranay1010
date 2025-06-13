@@ -7,7 +7,7 @@
 
 # 🚀 Pranay Kammari
 
-### Data Modeler • Data Engineer • Snowflake • PosgreSQL • AWS • Azure
+### Data Engineering • Data Modeling • Data Governance • Database Admin • Everything Data
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kpranay10/">
