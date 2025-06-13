@@ -82,7 +82,7 @@ I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
 
 ## 🚀 Highlights & Achievements
 
-* Engineered real-time pipelines processing **1+ billion** IoT events/day with **99.99%** uptime.
+* Engineered real-time pipelines processing **1+ million** IoT events/day with **99.99%** uptime.
 * Delivered **dynamic JSON schema** solution at Big Data Tech Meetup 2024.
 * Published **5+ technical blogs** (10k+ reads) on data engineering best practices.
 * Maintainer of **3+ open-source projects** focused on telemetry and ETL.
