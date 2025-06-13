@@ -7,7 +7,7 @@
 
 # 🚀 Pranay Kammari
 
-### Real-Time • Serverless • Scalable
+### Data Modeler • Data Engineer • Snowflake • PosgreSQL • AWS • Azure
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kpranay10/">
