@@ -36,7 +36,7 @@ I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
 
 * **ETL/ELT Pipelines & Analytics**: Designing and optimizing data lakes, warehouses, and BI solutions.
 * **Snowflake Architecture**: Certified Snowflake Data Lake Architect; expert in Snowpark and dynamic schema evolution.
-* **IoT & Telematics**: Building real-time telemetry systems handling 1+ billion events/day.
+* **IoT & Telematics**: Building real-time telemetry systems handling 1+ million events/day.
 * **Data Modeling**: Conceptual, logical, and physical modeling using Erwin and PowerDesigner; implementing star and snowflake schemas.
 * **Cloud & Automation**: AWS, GCP, Kubernetes, Terraform, CI/CD pipelines.
 * **Open-Source & Leadership**: Contributor to key public repos; speaker at Big Data Tech Meetup 2024.
