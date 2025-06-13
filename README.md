@@ -32,7 +32,7 @@ I’m dedicated to transforming raw data into actionable insights with robust, s
 
 ## 🎯 About Me
 
-I’m a **Data Engineer** and **Data Modeler** with 5+ years of experience:
+I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
 
 * **ETL/ELT Pipelines & Analytics**: Designing and optimizing data lakes, warehouses, and BI solutions.
 * **Snowflake Architecture**: Certified Snowflake Data Lake Architect; expert in Snowpark and dynamic schema evolution.
