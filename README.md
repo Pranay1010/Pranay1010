@@ -5,7 +5,7 @@
 </p>
 
 
-# 🚀 Pranay Kammari
+# Pranay Kammari
 
 ### Data Engineering • Data Modeling • Data Governance • Database Admin • Data Analyst • Everything Data
 
