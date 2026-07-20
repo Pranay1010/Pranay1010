@@ -24,13 +24,13 @@
 
 ---
 
-## 🔍 Profile Overview
+## Profile Overview
 
 I’m dedicated to transforming raw data into actionable insights with robust, scalable pipelines. I thrive on solving complex data challenges—especially in real-time streaming and telematics—and driving measurable business impact.
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
 
@@ -44,7 +44,7 @@ I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
 ---
 
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -68,7 +68,7 @@ I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
 </p>
 
 
-## 📚 Certifications & Education
+## Certifications & Education
 
 * [AWS Certified Solutions Architect](https://www.credly.com/badges/9df7b480-32cd-436f-88d9-ff47d8bbecc4/public_url)
 * [SnowPro Core Certification](https://www.credly.com/badges/15a5333a-a6a9-470b-9d22-4df06c55025c/public_url)
@@ -80,7 +80,7 @@ I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
 
 ---
 
-## 🚀 Highlights & Achievements
+## Highlights & Achievements
 
 * Engineered real-time pipelines processing **1+ million** IoT events/day with **99.99%** uptime.
 * Delivered **dynamic JSON schema** solution at Big Data Tech Meetup 2024.
@@ -93,7 +93,7 @@ I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E90FF&width=800&lines=Mastering+Telemetry+%26+Dynamic+Schema+Evolution!" alt="Typing SVG" width="100%" />
 </p>
 
-## 📦 Featured Projects
+## Featured Projects
 
 | Project                                                       | Description                                             | Tech            |
 | :------------------------------------------------------------ | :------------------------------------------------------ | :-------------- |
@@ -104,7 +104,7 @@ I’m a **Data Engineer** and **Data Modeler** with 9+ years of experience:
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 > **"Data is the fuel; I build the engines."**
 
